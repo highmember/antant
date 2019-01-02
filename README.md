@@ -1,3 +1,1 @@
-# React Starter
-
-Admin Theme สำหรับการเริ่มโปรเจคใหม่
+Clean UI Admin Template React UmiJS
